@@ -21,3 +21,17 @@ Install the ***"[Open Source Quantum Information Science Kit](https://qiskit.org
 ```bash
 [python3] $ pip install qiskit
 ```
+
+We'll run some `qiskit` examples (found in the offial repo [QISKit/qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial)) inside an IBM quantum computer, so we'll need extra installations. To do so, please follow the instructions from ***[HERE](https://github.com/QISKit/qiskit-tutorial/blob/master/INSTALL.md)***.
+
+##### TL;DR:
+1. Clone the [QISKit/qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial):
+```bash
+git clone https://github.com/QISKit/qiskit-tutorial.git
+```
+
+2. If you use [Conda/Anaconda](https://conda.io/docs/index.html) I highly recommend you to create a virtual environment as follows (after clonning `qiskit-tutorial`):
+```bash
+cd qiskit-tutorial
+conda env create -f QISKitenv.yml
+```
