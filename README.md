@@ -22,7 +22,7 @@ Install the ***"[Open Source Quantum Information Science Kit](https://qiskit.org
 [python3] $ pip install qiskit
 ```
 
-We'll run some `qiskit` examples (found in the offial repo [QISKit/qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial)) inside an IBM quantum computer, so we'll need extra installations. To do so, please follow the instructions from ***[HERE](https://github.com/QISKit/qiskit-tutorial/blob/master/INSTALL.md)***.
+We'll run some `qiskit` examples (found in the offial repo [QISKit/qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial)) inside an IBM quantum computer, so we'll need extra installations. To do so, please follow the instructions from **[HERE](https://github.com/QISKit/qiskit-tutorial/blob/master/INSTALL.md)**.
 
 ##### TL;DR:
 1. Clone the [QISKit/qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial):
