@@ -24,7 +24,10 @@ Install the ***"[Open Source Quantum Information Science Kit](https://qiskit.org
 
 We'll run some `qiskit` examples (found in the offial repo [QISKit/qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial)) inside an IBM quantum computer, so we'll need extra installations. To do so, please follow the instructions from **[HERE](https://github.com/QISKit/qiskit-tutorial/blob/master/INSTALL.md)**.
 
-##### TL;DR:
+#### TL;DR:
+
+To install locally:
+
 1. Clone the [QISKit/qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial):
 ```bash
 git clone https://github.com/QISKit/qiskit-tutorial.git
@@ -35,3 +38,7 @@ git clone https://github.com/QISKit/qiskit-tutorial.git
 cd qiskit-tutorial
 conda env create -f QISKitenv.yml
 ```
+
+If you're willing to run in the cloud using Azure Notebooks:
+
+1. Please see the [Azure Notebook instructions](https://github.com/RodolfoFerro/IBMQC18/blob/master/Azure_Notebooks_Installation.md) to install the [qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial) requirements inside a Jupyter Notebook.
