@@ -1,0 +1,3 @@
+# Useful links, notes, etc...
+
+- *[Quantum Computation: Just a Taste With Python and JavaScript](https://x-team.com/blog/quantum-computation-python-javascript/)*, Adam Gerard (May 29, 2018).
