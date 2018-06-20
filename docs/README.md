@@ -6,3 +6,4 @@
 - *[La Mecánica Cuántica](http://la-mecanica-cuantica.blogspot.com/)*, Armando Martínez Téllez (August 11, 2009).
 - *[Computational Complexity for Physicists]()*, S. Mertens. IEEE Journal on Computing in Science & Engineering vol. 4, no. 3, May/June 2002, pp 31-47
 - *[A cross-disciplinary introduction to quantum annealing-based algorithms]()*.
+- *[IBM Q Experience Documentation](https://qiskit.github.io/ibmqx-user-guides/index.html)*, IBM Q Experience Documentation.
