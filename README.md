@@ -2,11 +2,19 @@
 
 ***Description:** To be added.*
 
+<center>
+  <img src="https://image.flaticon.com/icons/svg/189/189810.svg" width="5%">
+</center>
+
 ## Structure
 
 You'll find several folders in this repo, which contain all the content created during this workshop. The main structure is as follows:
 
 - 📁 **[docs](https://github.com/RodolfoFerro/IBMQC18/tree/master/docs):** Contains all documentation (slides, papers, etc.) reviewed or recommended during the workshop.
+
+<center>
+  <img src="https://image.flaticon.com/icons/svg/189/189810.svg" width="5%">
+</center>
 
 ## Requirements
 
@@ -43,3 +51,7 @@ If you're willing to run in the cloud using Azure Notebooks:
 
 1. Create an account in [Azure Notebooks](https://notebooks.azure.com/), then create a new library from GitHub by pasting the link to this repo: `https://github.com/RodolfoFerro/IBMQC18`.
 2. Now please see the [Azure Notebook instructions](https://github.com/RodolfoFerro/IBMQC18/blob/master/Azure_Notebooks_Installation.md) to install the [qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial) requirements inside a Jupyter Notebook.
+
+<center>
+  <img src="https://image.flaticon.com/icons/svg/189/189810.svg" width="5%">
+</center>
