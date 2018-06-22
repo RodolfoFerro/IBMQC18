@@ -34,10 +34,6 @@ Install the ***"[Open Source Quantum Information Science Kit](https://qiskit.org
 
 We'll run some `qiskit` examples (found in the offial repo [QISKit/qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial)) inside an IBM quantum computer, so we'll need extra installations. To do so, please follow the instructions from **[HERE](https://github.com/QISKit/qiskit-tutorial/blob/master/INSTALL.md)**.
 
-<center>
-  <img src="https://image.flaticon.com/icons/svg/189/189810.svg" width="2%">
-</center>
-
 #### TL;DR:
 
 To install locally:
