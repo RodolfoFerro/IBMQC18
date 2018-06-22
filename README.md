@@ -2,21 +2,23 @@
 
 ***Description:** To be added.*
 
-<center>
-  <img src="https://image.flaticon.com/icons/svg/189/189810.svg" width="2%">
-</center>
+------
 
-## Structure
+## Structure and contents
 
 You'll find several folders in this repo, which contain all the content created during this workshop. The main structure is as follows:
 
-- 📁 **[docs](https://github.com/RodolfoFerro/IBMQC18/tree/master/docs):** Contains all documentation (slides, papers, etc.) reviewed or recommended during the workshop.
+### 📁 **[docs](https://github.com/RodolfoFerro/IBMQC18/tree/master/docs):**
 
-<center>
-  <img src="https://image.flaticon.com/icons/svg/189/189810.svg" width="2%">
-</center>
+Contains all documentation (slides, papers, etc.) reviewed or recommended during the workshop.
 
-## Requirements
+### 📁 **[code](https://github.com/RodolfoFerro/IBMQC18/tree/master/code):**
+
+Contains all documentation (slides, papers, etc.) reviewed or recommended during the workshop.
+
+------
+
+## Installation and setup
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="5%"> <img src="https://image.flaticon.com/icons/svg/109/109526.svg" width="1.5%"> <img src="https://gitlab.eurecom.fr/zoe-apps/pytorch/avatar" width="5.5%">
 
@@ -31,6 +33,10 @@ Install the ***"[Open Source Quantum Information Science Kit](https://qiskit.org
 ```
 
 We'll run some `qiskit` examples (found in the offial repo [QISKit/qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial)) inside an IBM quantum computer, so we'll need extra installations. To do so, please follow the instructions from **[HERE](https://github.com/QISKit/qiskit-tutorial/blob/master/INSTALL.md)**.
+
+<center>
+  <img src="https://image.flaticon.com/icons/svg/189/189810.svg" width="2%">
+</center>
 
 #### TL;DR:
 
@@ -52,6 +58,4 @@ If you're willing to run in the cloud using Azure Notebooks:
 1. Create an account in [Azure Notebooks](https://notebooks.azure.com/), then create a new library from GitHub by pasting the link to this repo: `https://github.com/RodolfoFerro/IBMQC18`.
 2. Now please see the [Azure Notebook instructions](https://github.com/RodolfoFerro/IBMQC18/blob/master/Azure_Notebooks_Installation.md) to install the [qiskit-tutorial](https://github.com/QISKit/qiskit-tutorial) requirements inside a Jupyter Notebook.
 
-<center>
-  <img src="https://image.flaticon.com/icons/svg/189/189810.svg" width="2%">
-</center>
+------
